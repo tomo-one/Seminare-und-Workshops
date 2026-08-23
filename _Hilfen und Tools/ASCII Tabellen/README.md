@@ -37,7 +37,7 @@ Jede Tabelle stellt den druckbaren ASCII-Zeichensatz in unterschiedlichen Zahlen
 | A | Binär + Hex + Dezimal, Fassung von 1968<br>[TT-AAL-L2R](TT-AAL-L2R%20-%20ASCII%20table%20BIN-HEX-DEC-1968.png)<br>[TT-AAP-T2B](TT-AAP-T2B%20-%20ASCII%20table%20BIN-HEX-DEC-1968.png) |
 | B | Binär + Hex + Dezimal, Vergleich 1963 vs. 1968<br>[TT-ABL-L2R](TT-ABL-L2R%20-%20ASCII%20table%20BIN-HEX-DEC-1963+1968.png)<br>[TT-ABP-T2B](TT-ABP-T2B%20-%20ASCII%20table%20BIN-HEX-DEC-1963+1968.png) |
 
-Zwei ergänzende Sonderblätter:
+Zwei ergänzende Tabellen:
 
 - **6th digit / Prefixe** – hebt Prefixe und sechste Stelle hervor.<br>[TT-APL-L2R](TT-APL-L2R%20-%20ASCII%20table%20BIN-HEX-DEC%20-%206th%20digit.png)
 - **für Medien** – eine speziell für Workshops erstellte Variante (zum Erklären und erarbeiten von weiteren Teilen).<br>[TT-AVL-L2R](TT-AVL-L2R%20-%20ASCII%20table%20BIN-HEX-DEC%20-%20for%20media.png)
@@ -90,7 +90,7 @@ Each table shows the printable ASCII character set in different number systems o
 | A | Binary + Hex + Decimal, 1968 edition<br>[TT-AAL-L2R](TT-AAL-L2R%20-%20ASCII%20table%20BIN-HEX-DEC-1968.png)<br>[TT-AAP-T2B](TT-AAP-T2B%20-%20ASCII%20table%20BIN-HEX-DEC-1968.png) |
 | B | Binary + Hex + Decimal, 1963 vs. 1968 comparison<br>[TT-ABL-L2R](TT-ABL-L2R%20-%20ASCII%20table%20BIN-HEX-DEC-1963+1968.png)<br>[TT-ABP-T2B](TT-ABP-T2B%20-%20ASCII%20table%20BIN-HEX-DEC-1963+1968.png) |
 
-Two additional special sheets:
+Two additional special tables:
 
 - **6th digit / prefixes** – highlights prefixes and the sixth digit.<br>[TT-APL-L2R](TT-APL-L2R%20-%20ASCII%20table%20BIN-HEX-DEC%20-%206th%20digit.png)
 - **for media** – a variant created specifically for workshops (for explaining and working through further parts).<br>[TT-AVL-L2R](TT-AVL-L2R%20-%20ASCII%20table%20BIN-HEX-DEC%20-%20for%20media.png)
